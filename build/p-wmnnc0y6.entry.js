@@ -1,0 +1,1 @@
+import{r,h as t}from"./p-9584bd70.js";const s=class{constructor(t){r(this,t)}render(){return t("div",{class:"mikCardParent"},t("blockquote",{class:"quote-card yellow-card"},t("p",null,this.mikCardContentMessage),t("cite",null,this.mikCardAuthor)))}static get style(){return".mikCardParent{background-color:#f5f5f5}"}};export{s as mik_card};
